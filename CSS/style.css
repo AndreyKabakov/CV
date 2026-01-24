@@ -1,0 +1,26 @@
+body{
+    font-family: "Gloria Hallelujah", cursive;
+    letter-spacing: 0.05em;
+    font-weight: 300;
+    font-style: normal;
+    background-image: url("../images/background.jpeg");
+}
+
+h1{
+letter-spacing: 2px;
+    font-size:36px;
+    color: black;
+
+}
+table, th, td {
+    padding: 5px 10px;
+    text-align: left;
+    border:1px solid sandybrown;
+    border-collapse: collapse;
+}
+img{
+    width: 218px;
+    height: 245px;
+    border:7px solid darkgray;
+    border-radius: 25px;
+}
